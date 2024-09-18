@@ -11,5 +11,5 @@ Class Files
 [Space Rocks 9-16-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Space_Rocks_9-16-24)  
 
 Projects  
-[Project 1 Phase 1]()  
+[Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-I)  
 [Project 1 Phase 2]()  
