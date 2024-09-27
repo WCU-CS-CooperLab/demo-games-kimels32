@@ -13,7 +13,7 @@
   
 [3D Mini Golf 9-23-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_9-23-24)  
 [3D Mini Golf 9-25-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_9-25-24)  
-[3D Mini Golf UI_9-25-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_UI_9-25-24)  
+[3D Mini Golf UI 9-25-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_UI_9-25-24)  
   
 ## Projects  
 [Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-I)  
