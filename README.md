@@ -18,6 +18,8 @@
 [3D Mini Golf 9-27-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_9-27-24)  
   
 [Jungle_Jump_9-30-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Jungle_Jump_9-30-24)  
+[Jungle_Jump_workingJump_10-2](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Jungle_Jump_workingJump_10-2)  
+[Jungle_Jump_10-2-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Jungle_Jump_9-30-24)  
   
 ## Projects  
 [Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-I)  
