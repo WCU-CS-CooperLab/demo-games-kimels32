@@ -10,6 +10,7 @@
 [Space Rocks 9-11-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Space_Rocks_9-11-24)  
 [Space Rocks 9-14-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Space_Rocks_9-14-24)  
 [Space Rocks 9-16-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Space_Rocks_9-16-24)  
+[Space Rocks 9-30-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Space_Rocks_9-30-24)  
   
 [3D Mini Golf 9-23-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_9-23-24)  
 [3D Mini Golf 9-25-24](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/3D_Mini_Golf_9-25-24)  
@@ -21,3 +22,5 @@
 ## Projects  
 [Project 1 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-I)  
 [Project 1 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-II)  
+
+[Project 2 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-2-phase-I)  
