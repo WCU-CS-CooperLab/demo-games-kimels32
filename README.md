@@ -27,3 +27,4 @@
 [Project 1 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-1-phase-II)  
 
 [Project 2 Phase 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-2-phase-I)  
+[Project 2 Phase 2](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-2-phase-II)
