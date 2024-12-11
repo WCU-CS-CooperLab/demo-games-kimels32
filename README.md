@@ -37,3 +37,6 @@
 [Team Project 1](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/Treasure_Parkour)  
 
 [Project 4](https://wcu-cs-cooperlab.github.io/demo-games-kimels32/project-4)  
+
+[Team Project 2 Mac](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseMACOS.zip)  
+[Team Project 2 Windows](https://wcu-cs-cooperlab.github.io/demo-games-MuhammadAmer03/FruitocalypseWindows.zip)  
